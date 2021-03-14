@@ -1,16 +1,31 @@
-#EXTINF:0 tvg-id="2744" tvg-logo="http://epg.it999.ru/img/2744.png" group-title="4K",TRT 4K
-http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/4001/index.m3u8
-#EXTINF:0 tvg-id="2745" tvg-logo="http://epg.it999.ru/img/2745.png" group-title="4K",Home 4K
-http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/4002/index.m3u8
-#EXTINF:0 tvg-id="2746" tvg-logo="http://epg.it999.ru/img/2746.png" group-title="4K",Наша Сибирь 4K
-http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/4003/index.m3u8
-#EXTINF:0 tvg-id="2747" tvg-logo="http://epg.it999.ru/img/2747.png" group-title="4K",Eurosport 4K
-http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/4004/index.m3u8
-#EXTINF:0 tvg-id="2748" tvg-logo="http://epg.it999.ru/img/2748.png" group-title="4K",FTV UHD
-http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/4005/index.m3u8
-#EXTINF:0 tvg-id="2800" tvg-logo="http://epg.it999.ru/img/2800.png" group-title="4K",Insight UHD 4K
-http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/5000/index.m3u8
-#EXTINF:0 tvg-id="2801" tvg-logo="http://epg.it999.ru/img/2801.png" group-title="4K",Love Nature 4K
-http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/5001/index.m3u8
-#EXTINF:0 tvg-id="2802" tvg-logo="http://epg.it999.ru/img/2802.png" group-title="4K",MyZen TV 4K
-http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/5002/index.m3u8
+#EXTM3U
+#EXTINF:-1,LNK
+http://45.145.32.15:20004/lnk/video.m3u8
+#EXTINF:-1,TV3
+http://45.145.32.15:20004/tv3/video.m3u8
+#EXTINF:-1,LRT HD
+http://45.145.32.15:20005/lrt_televizija_hd/video.m3u8
+#EXTINF:-1,LRT Plius HD
+http://45.145.32.15:20005/lrt_plius_hd/video.m3u8
+#EXTINF:-1,TV1
+http://45.145.32.15:20004/tv1/video.m3u8
+#EXTINF:-1,TV8
+http://45.145.32.15:20004/tv8/video.m3u8
+#EXTINF:-1,TV6
+http://45.145.32.15:20004/tv6/video.m3u8
+#EXTINF:-1,BTV
+http://45.145.32.15:20004/btv/video.m3u8
+#EXTINF:-1,Lietuvos rytas TV
+http://45.145.32.15:20004/lietuvos_rytas/video.m3u8
+#EXTINF:-1,Info TV
+http://45.145.32.15:20004/info_tv/video.m3u8
+#EXTINF:-1,Delfi TV
+http://45.145.32.15:20004/delfi_tv/video.m3u8
+#EXTINF:-1,2TV
+http://45.145.32.15:20004/2tv/video.m3u8
+#EXTINF:-1,Current Time
+http://45.145.32.15:20004/current_time/video.m3u8
+#EXTINF:-1,LRT
+http://45.145.32.15:20005/lrt_televizija/video.m3u8
+#EXTINF:-1,LRT Plius
+http://45.145.32.15:20005/lrt_plius/video.m3u8
