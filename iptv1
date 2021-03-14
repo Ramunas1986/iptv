@@ -1,1 +1,15 @@
-#EXTINF:0 tvg-id="2755" tvg-logo="http://epg.it999.ru/img/2755.png" group-title="4K",Stingray Festival 4K
+#EXTM3U x-tvg-url="http://epg.it999.ru/epg.xml.gz"
+#EXTINF:0 tvg-id="743" tvg-logo="http://epg.it999.ru/img/743.png" group-title="новости",РБК-ТВ
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/106/index.m3u8
+#EXTINF:0 tvg-id="427" tvg-logo="http://epg.it999.ru/img/427.png" group-title="новости",Пятый канал
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/112/index.m3u8
+#EXTINF:0 tvg-id="1683" tvg-logo="http://epg.it999.ru/img/1683.png" group-title="новости",Россия-24
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/507/index.m3u8
+#EXTINF:0 tvg-id="334" tvg-logo="http://epg.it999.ru/img/334.png" group-title="новости",Москва 24
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/523/index.m3u8
+#EXTINF:0 tvg-id="828" tvg-logo="http://epg.it999.ru/img/828.png" group-title="новости",BBC World News
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/545/index.m3u8
+#EXTINF:0 tvg-id="2078" tvg-logo="http://epg.it999.ru/img/2078.png" group-title="новости",Мир 24
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/712/index.m3u8
+#EXTINF:0 tvg-id="2036" tvg-logo="http://epg.it999.ru/img/2036.png" group-title="новости",НТВ (+2)
+http://asibiev1plus34.cbilant.com/iptv/3Z9L7B88L8SVEB/713/index.m3u8
