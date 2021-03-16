@@ -1,2 +1,5 @@
-#EXTINF:0 tvg-id="lrtkult" group-title="Lituania",LRT Kultura
-http://s1.only4.tv:82/0791/index.m3u8?token=wyz5VlWVLS
+#EXTINF:0 tvg-id="lrt" group-title="Channels",LRT HD
+http://45.145.32.15:20005/lrt_televizija_hd/video.m3u8
+#EXTINF:0 tvg-id="lrtkult" group-title="Channels",LRT Plius HD
+http://45.145.32.15:20005/lrt_plius_hd/video.m3u8
+
