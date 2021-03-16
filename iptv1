@@ -1,3 +1,1 @@
-
-#EXTVLCOPT:http-user-agent=WINK/1.28.2 (AndroidTV/9) HlsWinkPlayer
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8?version=2&offset=-36000
+#EXTINF:-1 group-title="Архив",Русский Экстрим UHD (-2)
