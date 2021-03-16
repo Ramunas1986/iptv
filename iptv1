@@ -1,28 +1,2 @@
 #EXTINF:0 tvg-id="lrtkult" group-title="Lituania",LRT Kultura
 http://s1.only4.tv:82/0791/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="lrt" group-title="Lituania",LRT Televizija
-http://s1.only4.tv:82/0789/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="baltijos-lt" group-title="Lituania",BTV
-http://s1.only4.tv:82/0788/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="tv1-lt" group-title="Lituania",TV1
-http://s1.only4.tv:82/0785/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="tv3-lt" group-title="Lituania",TV3 
-http://s1.only4.tv:82/0786/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="tv6-lt" group-title="Lituania",TV6 
-http://s1.only4.tv:82/0787/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="tv8-lt" group-title="Lituania",TV8 Л
-http://s1.only4.tv:82/0784/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="liuks" group-title="Lituania",Liuks!
-http://s1.only4.tv:82/0783/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="info-tv" group-title="Lituania",Info TV
-http://s1.only4.tv:82/0782/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="lnk-lt" group-title="Lituania",LNK
-http://s1.only4.tv:82/0781/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="rytas-lt" group-title="Lituania",Lietuvos ryto televizija
-http://s1.only4.tv:82/0780/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="ext" group-title="Lituania",LRT+
-http://s1.only4.tv:82/5505/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="ltv-world" group-title="Lituania",LRT Lituanica
-http://s1.only4.tv:82/5502/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="current-time" group-title="Lituania"
-http://s1.only4.tv:82/5503/index.m3u8?token=wyz5VlWVLS
