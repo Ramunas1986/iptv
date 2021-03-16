@@ -1,149 +1,28 @@
-#EXTM3U
-#EXTINF:0 tvg-id="ort-hd" group-title="Русские",Первый канал HD
-http://s1.only4.tv:82/20105/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="ort" group-title="Русские",Первый канал (Россия)
-http://s1.only4.tv:82/1101/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="ort+2" group-title="Русские",Первый канал (+2)
-http://s1.only4.tv:82/1801/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="ort+4" group-title="Русские",Первый канал (+4)
-http://s1.only4.tv:82/0356/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="ort+6" group-title="Русские",Первый канал (+6)
-http://s1.only4.tv:82/5520/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="rossiya-hd" group-title="Русские",Россия 1 HD
-http://s1.only4.tv:82/20106/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="rtr" group-title="Русские",Россия 1
-http://s1.only4.tv:82/1001/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="rossiya+2" group-title="Русские",Россия 1 (+2)
-http://s1.only4.tv:82/1116/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="rossiya+4" group-title="Русские",Россия 1 (+4)
-http://s1.only4.tv:82/0355/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="rossiya+6" group-title="Русские",Россия 1 (+6)
-http://s1.only4.tv:82/5521/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="ntv" group-title="Русские",НТВ HD
-http://s1.only4.tv:82/2201/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="ntv" group-title="Русские",НТВ
-http://s1.only4.tv:82/1315/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="ntv2" group-title="Русские",НТВ (+2)
-http://s1.only4.tv:82/1802/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="ntv4" group-title="Русские",НТВ (+4)
-http://s1.only4.tv:82/0358/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="ntv7" group-title="Русские",НТВ (+7)
-http://s1.only4.tv:82/5522/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="tnt" group-title="Русские",ТНТ HD
-http://s1.only4.tv:82/2207/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="tnt" group-title="Русские",ТНТ
-http://s1.only4.tv:82/1319/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="tnt2" group-title="Русские",ТНТ (+2)
-http://s1.only4.tv:82/1804/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="tnt+4" group-title="Русские",ТНТ (+4)
-http://s1.only4.tv:82/5574/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="tnt7" group-title="Русские",ТНТ (+7)
-http://s1.only4.tv:82/5523/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="tnt4" group-title="Русские",ТНТ4
-http://s1.only4.tv:82/1820/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="piter" group-title="Русские",Пятый канал
-http://s1.only4.tv:82/1003/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="piter+2" group-title="Русские",Пятый канал (+2)
-http://s1.only4.tv:82/413/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="rentv" group-title="Русские",РЕН ТВ HD
-http://s1.only4.tv:82/6260/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="rentv" group-title="Русские",РЕН ТВ
-http://s1.only4.tv:82/1004/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="rentv2" group-title="Русские",РЕН ТВ (+2)
-http://s1.only4.tv:82/402/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="rentv4" group-title="Русские",РЕН ТВ (+4)
-http://s1.only4.tv:82/0357/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="sts" group-title="Русские",СТС HD
-http://s1.only4.tv:82/5580/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="sts" group-title="Русские",СТС
-http://s1.only4.tv:82/1105/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="sts2" group-title="Русские",СТС (+2)
-http://s1.only4.tv:82/0224/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="sts4" group-title="Русские",СТС (+4)
-http://s1.only4.tv:82/0354/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="zvezda" group-title="Русские",Звезда
-http://s1.only4.tv:82/1311/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="zvezda2" group-title="Русские",Звезда (+2)
-http://s1.only4.tv:82/410/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="tvcen" group-title="Русские",ТВ Центр
-http://s1.only4.tv:82/2113/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="tvc2" group-title="Русские",ТВ Центр (+2)
-http://s1.only4.tv:82/1803/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="home" group-title="Русские",Домашний HD
-http://s1.only4.tv:82/6254/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="home" group-title="Русские",Домашний
-http://s1.only4.tv:82/1102/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="home2" group-title="Русские",Домашний (+2)
-http://s1.only4.tv:82/6296/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="home4" group-title="Русские",Домашний (+4)
-http://s1.only4.tv:82/6297/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="home7" group-title="Русские",Домашний (+7)
-http://s1.only4.tv:82/6298/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="chetv" group-title="Русские",Че
-http://s1.only4.tv:82/1109/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="pyatnica" group-title="Русские",Пятница HD
-http://s1.only4.tv:82/5562/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="pyatnica" group-title="Русские",Пятница
-http://s1.only4.tv:82/1009/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="rbk" group-title="Русские",РБК ТВ
-http://s1.only4.tv:82/1317/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="vesti" group-title="Русские",Россия 24
-http://s1.only4.tv:82/0302/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="moskva24" group-title="Русские",Москва-24
-http://s1.only4.tv:82/0295/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="fashion" group-title="Русские",FTV HD
-http://s1.only4.tv:82/0211/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="eda-hd" group-title="Русские",Еда
-http://s1.only4.tv:82/0137/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="nostalgia" group-title="Русские",Ностальгия
-http://s1.only4.tv:82/117/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="dozhd" group-title="Русские",Дождь
-http://s1.only4.tv:82/0266/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="izvestiy" group-title="Русские",Известия
-http://s1.only4.tv:82/705/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="sarafan" group-title="Русские",Сарафан
-http://s1.only4.tv:82/419/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="super" group-title="Русские",Супер
-http://s1.only4.tv:82/1321/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="ext" group-title="Русские",Анекдот ТВ
-http://s1.only4.tv:82/5524/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="kvn-tv" group-title="Русские",КВН ТВ
-http://s1.only4.tv:82/124/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="crimea-24" group-title="Русские",Крым 24
-http://s1.only4.tv:82/5560/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="1krym" group-title="Русские",Первый крымский
-http://s1.only4.tv:82/5561/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="mir-hd" group-title="Русские",Мир Premium HD
-http://s1.only4.tv:82/1407/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="mir24" group-title="Русские",Мир 24
-http://s1.only4.tv:82/1823/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="ntv-style" group-title="Русские",НТВ стиль
-http://s1.only4.tv:82/415/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="kultura" group-title="Русские",Россия К
-http://s1.only4.tv:82/1005/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="spas" group-title="Русские",Спас
-http://s1.only4.tv:82/1007/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="orbita" group-title="Русские",Кубань 24 Орбита
-http://s1.only4.tv:82/6222/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="podmoskovie" group-title="Русские",360 Подмосковье
-http://s1.only4.tv:82/6223/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="zhivi" group-title="Русские",Живи
-http://s1.only4.tv:82/6224/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="voprosy-i-otvety" group-title="Русские",Вопросы и ответы
-http://s1.only4.tv:82/6262/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="doverie" group-title="Русские",Москва доверие
-http://s1.only4.tv:82/417/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="mir" group-title="Русские",Мир
-http://s1.only4.tv:82/1010/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="kto-est-kto" group-title="Русские",Кто есть кто
-http://s1.only4.tv:82/109/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="sts-love" group-title="Русские",СТС Love
-http://s1.only4.tv:82/1106/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="zdorovoe" group-title="Русские",Здоровое ТВ
-http://s1.only4.tv:82/6265/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="ntv-pravo" group-title="Русские",НТВ право
-http://s1.only4.tv:82/406/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="spb" group-title="Русские",Санкт-Петербург
-http://s1.only4.tv:82/1825/index.m3u8?token=wyz5VlWVLS
-#EXTINF:0 tvg-id="krasnaya-liniya" group-title="Русские",Красная линия
-http://s1.only4.tv:82/6309/index.m3u8?token=wyz5VlWVLS
+#EXTINF:0 tvg-id="lrtkult" group-title="Lituania",LRT Kultura
+http://s1.only4.tv:82/0791/index.m3u8?token=wyz5VlWVLS
+#EXTINF:0 tvg-id="lrt" group-title="Lituania",LRT Televizija
+http://s1.only4.tv:82/0789/index.m3u8?token=wyz5VlWVLS
+#EXTINF:0 tvg-id="baltijos-lt" group-title="Lituania",BTV
+http://s1.only4.tv:82/0788/index.m3u8?token=wyz5VlWVLS
+#EXTINF:0 tvg-id="tv1-lt" group-title="Lituania",TV1
+http://s1.only4.tv:82/0785/index.m3u8?token=wyz5VlWVLS
+#EXTINF:0 tvg-id="tv3-lt" group-title="Lituania",TV3 
+http://s1.only4.tv:82/0786/index.m3u8?token=wyz5VlWVLS
+#EXTINF:0 tvg-id="tv6-lt" group-title="Lituania",TV6 
+http://s1.only4.tv:82/0787/index.m3u8?token=wyz5VlWVLS
+#EXTINF:0 tvg-id="tv8-lt" group-title="Lituania",TV8 Л
+http://s1.only4.tv:82/0784/index.m3u8?token=wyz5VlWVLS
+#EXTINF:0 tvg-id="liuks" group-title="Lituania",Liuks!
+http://s1.only4.tv:82/0783/index.m3u8?token=wyz5VlWVLS
+#EXTINF:0 tvg-id="info-tv" group-title="Lituania",Info TV
+http://s1.only4.tv:82/0782/index.m3u8?token=wyz5VlWVLS
+#EXTINF:0 tvg-id="lnk-lt" group-title="Lituania",LNK
+http://s1.only4.tv:82/0781/index.m3u8?token=wyz5VlWVLS
+#EXTINF:0 tvg-id="rytas-lt" group-title="Lituania",Lietuvos ryto televizija
+http://s1.only4.tv:82/0780/index.m3u8?token=wyz5VlWVLS
+#EXTINF:0 tvg-id="ext" group-title="Lituania",LRT+
+http://s1.only4.tv:82/5505/index.m3u8?token=wyz5VlWVLS
+#EXTINF:0 tvg-id="ltv-world" group-title="Lituania",LRT Lituanica
+http://s1.only4.tv:82/5502/index.m3u8?token=wyz5VlWVLS
+#EXTINF:0 tvg-id="current-time" group-title="Lituania"
+http://s1.only4.tv:82/5503/index.m3u8?token=wyz5VlWVLS
