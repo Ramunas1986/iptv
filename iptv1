@@ -1,217 +1,149 @@
-#EXTM3U url-tvg="http://only4.tv/epg/epg.xml"
-#EXTINF:-1 group-title="Русские" tvg-id="pervy" tvg-logo="http://only4.tv/ch/20105.png" catchup="shift" catchup-days="7" ,Первый канал HD
+#EXTM3U
+#EXTINF:0 tvg-id="ort-hd" group-title="Русские",Первый канал HD
 http://s1.only4.tv:82/20105/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="pervy" tvg-logo="http://only4.tv/ch/1101.png" catchup="shift" catchup-days="7" ,Первый канал (Россия)
+#EXTINF:0 tvg-id="ort" group-title="Русские",Первый канал (Россия)
 http://s1.only4.tv:82/1101/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="pervy-pl2" tvg-logo="http://only4.tv/ch/1801.png" catchup="shift" catchup-days="7" ,Первый канал (+2)
+#EXTINF:0 tvg-id="ort+2" group-title="Русские",Первый канал (+2)
 http://s1.only4.tv:82/1801/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="pervy-pl4" tvg-logo="http://only4.tv/ch/0356.png" catchup="shift" catchup-days="7" ,Первый канал (+4)
+#EXTINF:0 tvg-id="ort+4" group-title="Русские",Первый канал (+4)
 http://s1.only4.tv:82/0356/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="pervy-pl6" tvg-logo="http://only4.tv/ch/5520.png" catchup="shift" catchup-days="7" ,Первый канал (+6)
+#EXTINF:0 tvg-id="ort+6" group-title="Русские",Первый канал (+6)
 http://s1.only4.tv:82/5520/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="rossia1" tvg-logo="http://only4.tv/ch/20106.png" catchup="shift" catchup-days="7" ,Россия 1 HD
+#EXTINF:0 tvg-id="rossiya-hd" group-title="Русские",Россия 1 HD
 http://s1.only4.tv:82/20106/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="rossia1" tvg-logo="http://only4.tv/ch/1001.png" catchup="shift" catchup-days="7" ,Россия 1
+#EXTINF:0 tvg-id="rtr" group-title="Русские",Россия 1
 http://s1.only4.tv:82/1001/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="rossia1-pl2" tvg-logo="http://only4.tv/ch/1116.png" catchup="shift" catchup-days="7" ,Россия 1 (+2)
+#EXTINF:0 tvg-id="rossiya+2" group-title="Русские",Россия 1 (+2)
 http://s1.only4.tv:82/1116/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="rossia1-pl4" tvg-logo="http://only4.tv/ch/0355.png" catchup="shift" catchup-days="7" ,Россия 1 (+4)
+#EXTINF:0 tvg-id="rossiya+4" group-title="Русские",Россия 1 (+4)
 http://s1.only4.tv:82/0355/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="rossia1-pl6" tvg-logo="http://only4.tv/ch/5521.png" catchup="shift" catchup-days="7" ,Россия 1 (+6)
+#EXTINF:0 tvg-id="rossiya+6" group-title="Русские",Россия 1 (+6)
 http://s1.only4.tv:82/5521/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="ntv" tvg-logo="http://only4.tv/ch/2201.png" catchup="shift" catchup-days="7" ,НТВ HD
+#EXTINF:0 tvg-id="ntv" group-title="Русские",НТВ HD
 http://s1.only4.tv:82/2201/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="ntv" tvg-logo="http://only4.tv/ch/1315.png" catchup="shift" catchup-days="7" ,НТВ
+#EXTINF:0 tvg-id="ntv" group-title="Русские",НТВ
 http://s1.only4.tv:82/1315/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="ntv-pl2" tvg-logo="http://only4.tv/ch/1802.png" catchup="shift" catchup-days="7" ,НТВ (+2)
+#EXTINF:0 tvg-id="ntv2" group-title="Русские",НТВ (+2)
 http://s1.only4.tv:82/1802/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="ntv-pl4" tvg-logo="http://only4.tv/ch/0358.png" catchup="shift" catchup-days="7" ,НТВ (+4)
+#EXTINF:0 tvg-id="ntv4" group-title="Русские",НТВ (+4)
 http://s1.only4.tv:82/0358/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="ntv-pl7" tvg-logo="http://only4.tv/ch/5522.png" catchup="shift" catchup-days="7" ,НТВ (+7)
+#EXTINF:0 tvg-id="ntv7" group-title="Русские",НТВ (+7)
 http://s1.only4.tv:82/5522/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="tnt" tvg-logo="http://only4.tv/ch/2207.png" catchup="shift" catchup-days="7" ,ТНТ HD
+#EXTINF:0 tvg-id="tnt" group-title="Русские",ТНТ HD
 http://s1.only4.tv:82/2207/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="tnt" tvg-logo="http://only4.tv/ch/1319.png" catchup="shift" catchup-days="7" ,ТНТ
+#EXTINF:0 tvg-id="tnt" group-title="Русские",ТНТ
 http://s1.only4.tv:82/1319/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="tnt-pl2" tvg-logo="http://only4.tv/ch/1804.png" catchup="shift" catchup-days="7" ,ТНТ (+2)
+#EXTINF:0 tvg-id="tnt2" group-title="Русские",ТНТ (+2)
 http://s1.only4.tv:82/1804/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="tnt-pl4" tvg-logo="http://only4.tv/ch/5574.png" catchup="shift" catchup-days="7" ,ТНТ (+4)
+#EXTINF:0 tvg-id="tnt+4" group-title="Русские",ТНТ (+4)
 http://s1.only4.tv:82/5574/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="tnt-pl7" tvg-logo="http://only4.tv/ch/5523.png" catchup="shift" catchup-days="7" ,ТНТ (+7)
+#EXTINF:0 tvg-id="tnt7" group-title="Русские",ТНТ (+7)
 http://s1.only4.tv:82/5523/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="tnt4" tvg-logo="http://only4.tv/ch/1820.png" catchup="shift" catchup-days="7" ,ТНТ4
+#EXTINF:0 tvg-id="tnt4" group-title="Русские",ТНТ4
 http://s1.only4.tv:82/1820/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="5kanal-ru" tvg-logo="http://only4.tv/ch/1003.png" catchup="shift" catchup-days="7" ,Пятый канал
+#EXTINF:0 tvg-id="piter" group-title="Русские",Пятый канал
 http://s1.only4.tv:82/1003/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="5kanal-ru-pl2" tvg-logo="http://only4.tv/ch/413.png" catchup="shift" catchup-days="7" ,Пятый канал (+2)
+#EXTINF:0 tvg-id="piter+2" group-title="Русские",Пятый канал (+2)
 http://s1.only4.tv:82/413/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="rentv" tvg-logo="http://only4.tv/ch/6260.png" catchup="shift" catchup-days="7" ,РЕН ТВ HD
+#EXTINF:0 tvg-id="rentv" group-title="Русские",РЕН ТВ HD
 http://s1.only4.tv:82/6260/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="rentv" tvg-logo="http://only4.tv/ch/1004.png" catchup="shift" catchup-days="7" ,РЕН ТВ
+#EXTINF:0 tvg-id="rentv" group-title="Русские",РЕН ТВ
 http://s1.only4.tv:82/1004/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="rentv-pl2" tvg-logo="http://only4.tv/ch/402.png" catchup="shift" catchup-days="7" ,РЕН ТВ (+2)
+#EXTINF:0 tvg-id="rentv2" group-title="Русские",РЕН ТВ (+2)
 http://s1.only4.tv:82/402/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="rentv-pl4" tvg-logo="http://only4.tv/ch/0357.png" catchup="shift" catchup-days="7" ,РЕН ТВ (+4)
+#EXTINF:0 tvg-id="rentv4" group-title="Русские",РЕН ТВ (+4)
 http://s1.only4.tv:82/0357/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="sts" tvg-logo="http://only4.tv/ch/5580.png" catchup="shift" catchup-days="7" ,СТС HD
+#EXTINF:0 tvg-id="sts" group-title="Русские",СТС HD
 http://s1.only4.tv:82/5580/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="sts" tvg-logo="http://only4.tv/ch/1105.png" catchup="shift" catchup-days="7" ,СТС
+#EXTINF:0 tvg-id="sts" group-title="Русские",СТС
 http://s1.only4.tv:82/1105/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="sts-pl2" tvg-logo="http://only4.tv/ch/0224.png" catchup="shift" catchup-days="7" ,СТС (+2)
+#EXTINF:0 tvg-id="sts2" group-title="Русские",СТС (+2)
 http://s1.only4.tv:82/0224/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="sts-pl4" tvg-logo="http://only4.tv/ch/0354.png" catchup="shift" catchup-days="7" ,СТС (+4)
+#EXTINF:0 tvg-id="sts4" group-title="Русские",СТС (+4)
 http://s1.only4.tv:82/0354/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="zvezda" tvg-logo="http://only4.tv/ch/1311.png" catchup="shift" catchup-days="7" ,Звезда
+#EXTINF:0 tvg-id="zvezda" group-title="Русские",Звезда
 http://s1.only4.tv:82/1311/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="zvezda-pl2" tvg-logo="http://only4.tv/ch/410.png" catchup="shift" catchup-days="7" ,Звезда (+2)
+#EXTINF:0 tvg-id="zvezda2" group-title="Русские",Звезда (+2)
 http://s1.only4.tv:82/410/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="tvcentr" tvg-logo="http://only4.tv/ch/2113.png" catchup="shift" catchup-days="7" ,ТВ Центр
+#EXTINF:0 tvg-id="tvcen" group-title="Русские",ТВ Центр
 http://s1.only4.tv:82/2113/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="tvcentr-pl2" tvg-logo="http://only4.tv/ch/1803.png" catchup="shift" catchup-days="7" ,ТВ Центр (+2)
+#EXTINF:0 tvg-id="tvc2" group-title="Русские",ТВ Центр (+2)
 http://s1.only4.tv:82/1803/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="domashny" tvg-logo="http://only4.tv/ch/6254.png" catchup="shift" catchup-days="7" ,Домашний HD
+#EXTINF:0 tvg-id="home" group-title="Русские",Домашний HD
 http://s1.only4.tv:82/6254/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="domashny" tvg-logo="http://only4.tv/ch/1102.png" catchup="shift" catchup-days="7" ,Домашний
+#EXTINF:0 tvg-id="home" group-title="Русские",Домашний
 http://s1.only4.tv:82/1102/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="domashny-pl2" tvg-logo="http://only4.tv/ch/6296.png" catchup="shift" catchup-days="7" ,Домашний (+2)
+#EXTINF:0 tvg-id="home2" group-title="Русские",Домашний (+2)
 http://s1.only4.tv:82/6296/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="domashny-pl4" tvg-logo="http://only4.tv/ch/6297.png" catchup="shift" catchup-days="7" ,Домашний (+4)
+#EXTINF:0 tvg-id="home4" group-title="Русские",Домашний (+4)
 http://s1.only4.tv:82/6297/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="domashny-pl7" tvg-logo="http://only4.tv/ch/6298.png" catchup="shift" catchup-days="7" ,Домашний (+7)
+#EXTINF:0 tvg-id="home7" group-title="Русские",Домашний (+7)
 http://s1.only4.tv:82/6298/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="che" tvg-logo="http://only4.tv/ch/1109.png" catchup="shift" catchup-days="7" ,Че
+#EXTINF:0 tvg-id="chetv" group-title="Русские",Че
 http://s1.only4.tv:82/1109/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="piatnica" tvg-logo="http://only4.tv/ch/5562.png" catchup="shift" catchup-days="7" ,Пятница HD
+#EXTINF:0 tvg-id="pyatnica" group-title="Русские",Пятница HD
 http://s1.only4.tv:82/5562/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="piatnica" tvg-logo="http://only4.tv/ch/1009.png" catchup="shift" catchup-days="7" ,Пятница
+#EXTINF:0 tvg-id="pyatnica" group-title="Русские",Пятница
 http://s1.only4.tv:82/1009/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="rbk" tvg-logo="http://only4.tv/ch/1317.png" catchup="shift" catchup-days="7" ,РБК ТВ
+#EXTINF:0 tvg-id="rbk" group-title="Русские",РБК ТВ
 http://s1.only4.tv:82/1317/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="rossia-24" tvg-logo="http://only4.tv/ch/0302.png" catchup="shift" catchup-days="7" ,Россия 24
+#EXTINF:0 tvg-id="vesti" group-title="Русские",Россия 24
 http://s1.only4.tv:82/0302/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="moskva-24" tvg-logo="http://only4.tv/ch/0295.png" catchup="shift" catchup-days="7" ,Москва-24
+#EXTINF:0 tvg-id="moskva24" group-title="Русские",Москва-24
 http://s1.only4.tv:82/0295/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="ftv-hd" tvg-logo="http://only4.tv/ch/0211.png" catchup="shift" catchup-days="7" ,FTV HD
+#EXTINF:0 tvg-id="fashion" group-title="Русские",FTV HD
 http://s1.only4.tv:82/0211/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="eda-hd" tvg-logo="http://only4.tv/ch/0137.png" catchup="shift" catchup-days="7" ,Еда
+#EXTINF:0 tvg-id="eda-hd" group-title="Русские",Еда
 http://s1.only4.tv:82/0137/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="nostalgia" tvg-logo="http://only4.tv/ch/117.png" catchup="shift" catchup-days="7" ,Ностальгия
+#EXTINF:0 tvg-id="nostalgia" group-title="Русские",Ностальгия
 http://s1.only4.tv:82/117/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="dozhd" tvg-logo="http://only4.tv/ch/0266.png" catchup="shift" catchup-days="7" ,Дождь
+#EXTINF:0 tvg-id="dozhd" group-title="Русские",Дождь
 http://s1.only4.tv:82/0266/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="izvestia" tvg-logo="http://only4.tv/ch/705.png" catchup="shift" catchup-days="7" ,Известия
+#EXTINF:0 tvg-id="izvestiy" group-title="Русские",Известия
 http://s1.only4.tv:82/705/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="sarafan" tvg-logo="http://only4.tv/ch/419.png" catchup="shift" catchup-days="7" ,Сарафан
+#EXTINF:0 tvg-id="sarafan" group-title="Русские",Сарафан
 http://s1.only4.tv:82/419/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="super" tvg-logo="http://only4.tv/ch/1321.png" catchup="shift" catchup-days="7" ,Супер
+#EXTINF:0 tvg-id="super" group-title="Русские",Супер
 http://s1.only4.tv:82/1321/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="anekdottv" tvg-logo="http://only4.tv/ch/5524.png" catchup="shift" catchup-days="7" ,Анекдот ТВ
+#EXTINF:0 tvg-id="ext" group-title="Русские",Анекдот ТВ
 http://s1.only4.tv:82/5524/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="kvn-tv" tvg-logo="http://only4.tv/ch/124.png" catchup="shift" catchup-days="7" ,КВН ТВ
+#EXTINF:0 tvg-id="kvn-tv" group-title="Русские",КВН ТВ
 http://s1.only4.tv:82/124/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="krym24" tvg-logo="http://only4.tv/ch/5560.png" catchup="shift" catchup-days="7" ,Крым 24
+#EXTINF:0 tvg-id="crimea-24" group-title="Русские",Крым 24
 http://s1.only4.tv:82/5560/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="pervy-kr" tvg-logo="http://only4.tv/ch/5561.png" catchup="shift" catchup-days="7" ,Первый крымский
+#EXTINF:0 tvg-id="1krym" group-title="Русские",Первый крымский
 http://s1.only4.tv:82/5561/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="mir-premium" tvg-logo="http://only4.tv/ch/1407.png" catchup="shift" catchup-days="7" ,Мир Premium HD
+#EXTINF:0 tvg-id="mir-hd" group-title="Русские",Мир Premium HD
 http://s1.only4.tv:82/1407/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="mir-24" tvg-logo="http://only4.tv/ch/1823.png" catchup="shift" catchup-days="7" ,Мир 24
+#EXTINF:0 tvg-id="mir24" group-title="Русские",Мир 24
 http://s1.only4.tv:82/1823/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="ntv-style" tvg-logo="http://only4.tv/ch/415.png" catchup="shift" catchup-days="7" ,НТВ стиль
+#EXTINF:0 tvg-id="ntv-style" group-title="Русские",НТВ стиль
 http://s1.only4.tv:82/415/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="kultura" tvg-logo="http://only4.tv/ch/1005.png" catchup="shift" catchup-days="7" ,Россия К
+#EXTINF:0 tvg-id="kultura" group-title="Русские",Россия К
 http://s1.only4.tv:82/1005/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="spas" tvg-logo="http://only4.tv/ch/1007.png" catchup="shift" catchup-days="7" ,Спас
+#EXTINF:0 tvg-id="spas" group-title="Русские",Спас
 http://s1.only4.tv:82/1007/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="kuban-24-orbita" tvg-logo="http://only4.tv/ch/6222.png" catchup="shift" catchup-days="7" ,Кубань 24 Орбита
+#EXTINF:0 tvg-id="orbita" group-title="Русские",Кубань 24 Орбита
 http://s1.only4.tv:82/6222/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="360-podmoskovie" tvg-logo="http://only4.tv/ch/6223.png" catchup="shift" catchup-days="7" ,360 Подмосковье
+#EXTINF:0 tvg-id="podmoskovie" group-title="Русские",360 Подмосковье
 http://s1.only4.tv:82/6223/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="zhivi" tvg-logo="http://only4.tv/ch/6224.png" catchup="shift" catchup-days="7" ,Живи
+#EXTINF:0 tvg-id="zhivi" group-title="Русские",Живи
 http://s1.only4.tv:82/6224/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="voprosy-i-otvety" tvg-logo="http://only4.tv/ch/6262.png" catchup="shift" catchup-days="7" ,Вопросы и ответы
+#EXTINF:0 tvg-id="voprosy-i-otvety" group-title="Русские",Вопросы и ответы
 http://s1.only4.tv:82/6262/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="doverie" tvg-logo="http://only4.tv/ch/417.png" catchup="shift" catchup-days="7" ,Москва доверие
+#EXTINF:0 tvg-id="doverie" group-title="Русские",Москва доверие
 http://s1.only4.tv:82/417/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="mir" tvg-logo="http://only4.tv/ch/1010.png" catchup="shift" catchup-days="7" ,Мир
+#EXTINF:0 tvg-id="mir" group-title="Русские",Мир
 http://s1.only4.tv:82/1010/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="kto-est-kto" tvg-logo="http://only4.tv/ch/109.png" catchup="shift" catchup-days="7" ,Кто есть кто
+#EXTINF:0 tvg-id="kto-est-kto" group-title="Русские",Кто есть кто
 http://s1.only4.tv:82/109/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="sts-love" tvg-logo="http://only4.tv/ch/1106.png" catchup="shift" catchup-days="7" ,СТС Love
+#EXTINF:0 tvg-id="sts-love" group-title="Русские",СТС Love
 http://s1.only4.tv:82/1106/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="zdorovoe-tv" tvg-logo="http://only4.tv/ch/6265.png" catchup="shift" catchup-days="7" ,Здоровое ТВ
+#EXTINF:0 tvg-id="zdorovoe" group-title="Русские",Здоровое ТВ
 http://s1.only4.tv:82/6265/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="ntv-pravo" tvg-logo="http://only4.tv/ch/406.png" catchup="shift" catchup-days="7" ,НТВ право
+#EXTINF:0 tvg-id="ntv-pravo" group-title="Русские",НТВ право
 http://s1.only4.tv:82/406/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="sankt-peterburg" tvg-logo="http://only4.tv/ch/1825.png" catchup="shift" catchup-days="7" ,Санкт-Петербург
+#EXTINF:0 tvg-id="spb" group-title="Русские",Санкт-Петербург
 http://s1.only4.tv:82/1825/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Русские" tvg-id="krasnaya-linia" tvg-logo="http://only4.tv/ch/6309.png" catchup="shift" catchup-days="7" ,Красная линия
+#EXTINF:0 tvg-id="krasnaya-liniya" group-title="Русские",Красная линия
 http://s1.only4.tv:82/6309/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="vip-megahit" tvg-logo="http://only4.tv/ch/17103.png" catchup="shift" catchup-days="7" ,ViP Megahit HD
-http://s1.only4.tv:82/17103/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="vip-premiere" tvg-logo="http://only4.tv/ch/17104.png" catchup="shift" catchup-days="7" ,ViP Premiere HD
-http://s1.only4.tv:82/17104/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="vip-comedy" tvg-logo="http://only4.tv/ch/17102.png" catchup="shift" catchup-days="7" ,ViP Comedy HD
-http://s1.only4.tv:82/17102/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="vip-serial" tvg-logo="http://only4.tv/ch/0109.png" catchup="shift" catchup-days="7" ,ViP Serial HD
-http://s1.only4.tv:82/0109/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="kinopremium-hd" tvg-logo="http://only4.tv/ch/0121.png" catchup="shift" catchup-days="7" ,Премиальное HD
-http://s1.only4.tv:82/0121/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="kinopokaz-hd1" tvg-logo="http://only4.tv/ch/0119.png" catchup="shift" catchup-days="7" ,Шокирующее HD
-http://s1.only4.tv:82/0119/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="kinopokaz-hd2" tvg-logo="http://only4.tv/ch/0120.png" catchup="shift" catchup-days="7" ,Комедийное HD
-http://s1.only4.tv:82/0120/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="romantichnoe" tvg-logo="http://only4.tv/ch/5537.png" catchup="shift" catchup-days="7" ,Романтичное HD
-http://s1.only4.tv:82/5537/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="domkino-premium" tvg-logo="http://only4.tv/ch/2205.png" catchup="shift" catchup-days="7" ,Дом Кино Премиум HD
-http://s1.only4.tv:82/2205/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="amedia-premium" tvg-logo="http://only4.tv/ch/2104.png" catchup="shift" catchup-days="7" ,Amedia Premium HD
-http://s1.only4.tv:82/2104/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="kinopremiera-hd" tvg-logo="http://only4.tv/ch/12101.png" catchup="shift" catchup-days="7" ,Кинопремьера HD
-http://s1.only4.tv:82/12101/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="ostrosiuzhetnoe-hd" tvg-logo="http://only4.tv/ch/0122.png" catchup="shift" catchup-days="7" ,Остросюжетное HD
-http://s1.only4.tv:82/0122/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="fox" tvg-logo="http://only4.tv/ch/17101.png" catchup="shift" catchup-days="7" ,Fox HD
-http://s1.only4.tv:82/17101/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="foxlife" tvg-logo="http://only4.tv/ch/0207.png" catchup="shift" catchup-days="7" ,Fox Life Россия HD
-http://s1.only4.tv:82/0207/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="amedia1" tvg-logo="http://only4.tv/ch/2102.png" catchup="shift" catchup-days="7" ,A1
-http://s1.only4.tv:82/2102/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="amedia2" tvg-logo="http://only4.tv/ch/2117.png" catchup="shift" catchup-days="7" ,A2
-http://s1.only4.tv:82/2117/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="amedia-hit" tvg-logo="http://only4.tv/ch/2103.png" catchup="shift" catchup-days="7" ,Amedia Hit
-http://s1.only4.tv:82/2103/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="sony-tv" tvg-logo="http://only4.tv/ch/710.png" catchup="shift" catchup-days="7" ,Sony Channel HD
-http://s1.only4.tv:82/710/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="sony-scifi" tvg-logo="http://only4.tv/ch/711.png" catchup="shift" catchup-days="7" ,Sony Sci-Fi Россия
-http://s1.only4.tv:82/711/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="sony-turbo" tvg-logo="http://only4.tv/ch/712.png" catchup="shift" catchup-days="7" ,Sony Turbo
-http://s1.only4.tv:82/712/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="kinoxit" tvg-logo="http://only4.tv/ch/107.png" catchup="shift" catchup-days="7" ,Кинохит
-http://s1.only4.tv:82/107/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="kinomiks" tvg-logo="http://only4.tv/ch/105.png" catchup="shift" catchup-days="7" ,Киномикс
-http://s1.only4.tv:82/105/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="kinosvidanie" tvg-logo="http://only4.tv/ch/106.png" catchup="shift" catchup-days="7" ,Киносвидание
-http://s1.only4.tv:82/106/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="kinokomedia" tvg-logo="http://only4.tv/ch/108.png" catchup="shift" catchup-days="7" ,Кинокомедия
-http://s1.only4.tv:82/108/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="tv1000" tvg-logo="http://only4.tv/ch/5581.png" catchup="shift" catchup-days="7" ,TV1000 HD
-http://s1.only4.tv:82/5581/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="tv1000" tvg-logo="http://only4.tv/ch/19102.png" catchup="shift" catchup-days="7" ,TV1000 East
-http://s1.only4.tv:82/19102/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="tv1000-action" tvg-logo="http://only4.tv/ch/19103.png" catchup="shift" catchup-days="7" ,TV1000 Action East
-http://s1.only4.tv:82/19103/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="tv1000-russkoe-kino" tvg-logo="http://only4.tv/ch/19104.png" catchup="shift" catchup-days="7" ,TV1000 Русское кино
-http://s1.only4.tv:82/19104/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="tv1000-worldkino" tvg-logo="http://only4.tv/ch/6300.png" catchup="shift" catchup-days="7" ,TV1000 World Kino
-http://s1.only4.tv:82/6300/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="paramount-comedy" tvg-logo="http://only4.tv/ch/19118.png" catchup="shift" catchup-days="7" ,Paramount Comedy Россия
-http://s1.only4.tv:82/19118/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="paramount-channel" tvg-logo="http://only4.tv/ch/19121.png" catchup="shift" catchup-days="7" ,Paramount channel Россия
-http://s1.only4.tv:82/19121/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="nst" tvg-logo="http://only4.tv/ch/804.png" catchup="shift" catchup-days="7" ,НСТ
-http://s1.only4.tv:82/804/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="tv3-ru" tvg-logo="http://only4.tv/ch/1008.png" catchup="shift" catchup-days="7" ,ТВ-3 Россия
-http://s1.only4.tv:82/1008/index.m3u8?token=wyz5VlWVLS
-#EXTINF:-1 group-title="Кино" tvg-id="tv1000-premium" tvg-logo="http://only4.tv/ch/5585.png" catchup="shift" catchup-days="7" ,TV3 Film HD
-http://s1.only4.tv:82/5585/index.m3u8?token=wyz5VlWVLS
